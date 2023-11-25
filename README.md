@@ -7,9 +7,6 @@ A Developer & Explorer
 
 
 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="16" height="16"> I'm currently studing Golang.
-
 <img src="https://github-readme-stats.vercel.app/api?username=lizhijundev&show_icons=true" alt="logo" height="160" align="right" width="50%" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizhijundev)](https://github.com/lizhijundev?tab=repositories)
@@ -21,4 +18,4 @@ A Developer & Explorer
 
 ## 🔗 More
 Wanna know more about me?
-Visit my [blog](https://lizhijun.me/)
+Visit my [blog](https://www.lizhijun.com.cn/)
