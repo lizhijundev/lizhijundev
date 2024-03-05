@@ -1,5 +1,5 @@
 
-# Hey there! I'm Lizhijun
+# Hello! I'm Lizhijun
 A Developer & Explorer
 
 [![Github](https://img.shields.io/github/followers/lizhijundev?label=Github&style=social)](https://github.com/lizhijundev)
